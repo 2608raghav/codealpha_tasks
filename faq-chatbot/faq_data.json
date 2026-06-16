@@ -1,0 +1,22 @@
+[
+    {
+        "question":"What is AI?",
+        "answer":"Artificial Intelligence is the simulation of human intelligence by machines."
+    },
+    {
+        "question":"What is Machine Learning?",
+        "answer":"Machine Learning is a subset of AI that learns from data."
+    },
+    {
+        "question":"What is Python?",
+        "answer":"Python is a popular programming language used in AI and web development."
+    },
+    {
+        "question":"What is NLP?",
+        "answer":"Natural Language Processing helps computers understand human language."
+    },
+    {
+        "question":"What is Flask?",
+        "answer":"Flask is a lightweight Python web framework."
+    }
+]
